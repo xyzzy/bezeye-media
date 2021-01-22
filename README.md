@@ -1,5 +1,7 @@
 # Welcome to the Wonderful World of Bezeye
 
+*When illustrations are 375x larger than the code...*
+
 This project contains the media files for project bezeye [https://github.com/xyzzy/bezeye](https://github.com/xyzzy/bezeye)
 
 # Requirements

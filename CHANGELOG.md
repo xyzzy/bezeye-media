@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+```
+2021-01-22 14:28:48 Changed: Italic sub-title.
+```
+
 ## 2021-01-21 12:01:08 Version 1.0.0
 
 ```
