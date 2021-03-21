@@ -1,8 +1,74 @@
+---
+layout: home
+title: "bezeye-media - Media files for `bezeye`"
+image: assets/favimage-840x472.jpg
+---
+
+# bezeye-media
+
+Media files for `bezeye` (https://github.com/xyzzy/smile)
+
 # Welcome to the Wonderful World of Bezeye
 
 *When illustrations are 375x larger than the code...*
 
 This project contains the media files for project bezeye [https://github.com/xyzzy/bezeye](https://github.com/xyzzy/bezeye)
+
+# Comparing side-by-side 24bit-colour against SCQ colour reduction
+
+Below is a list of side-by-side comparisons between the 840x472 24bit-colour and different SCQ settings.  
+Upto 16 colours use a 5x5 grid to calculate averages, 32 and 64 colours uses a 3x3 grid.
+
+Down-left of diagonal is the 24bit-colour and upper-right the palette version.
+
+Clicking on the image opens the accompanying animated GIF.
+
+Note: GIFs are around 25Mbyte each.
+
+4 colours:
+[![sbs-4-5x5](sbs-840x472-4-5x5.png)](sbs-840x472-4-5x5.gif)
+
+5 colours:
+[![sbs-5-5x5](sbs-840x472-5-5x5.png)](sbs-840x472-5-5x5.gif)
+
+6 colours:
+[![sbs-6-5x5](sbs-840x472-6-5x5.png)](sbs-840x472-6-5x5.gif)
+
+7 colours:
+[![sbs-7-5x5](sbs-840x472-7-5x5.png)](sbs-840x472-7-5x5.gif)
+
+8 colours:
+[![sbs-8-5x5](sbs-840x472-8-5x5.png)](sbs-840x472-8-5x5.gif)
+
+9 colours:
+[![sbs-9-5x5](sbs-840x472-9-5x5.png)](sbs-840x472-9-5x5.gif)
+
+10 colours:
+[![sbs-10-5x5](sbs-840x472-10-5x5.png)](sbs-840x472-10-5x5.gif)
+
+11 colours:
+[![sbs-11-5x5](sbs-840x472-11-5x5.png)](sbs-840x472-11-5x5.gif)
+
+12 colours:
+[![sbs-12-5x5](sbs-840x472-12-5x5.png)](sbs-840x472-12-5x5.gif)
+
+13 colours:
+[![sbs-13-5x5](sbs-840x472-13-5x5.png)](sbs-840x472-13-5x5.gif)
+
+14 colours:
+[![sbs-14-5x5](sbs-840x472-14-5x5.png)](sbs-840x472-14-5x5.gif)
+
+15 colours:
+[![sbs-15-5x5](sbs-840x472-15-5x5.png)](sbs-840x472-15-5x5.gif)
+
+16 colours:
+[![sbs-16-5x5](sbs-840x472-16-5x5.png)](sbs-840x472-16-5x5.gif)
+
+32 colours:
+[![sbs-32-3x3](sbs-840x472-32-3x3.png)](sbs-840x472-32-3x3.gif)
+
+64 colours:
+[![sbs-64-3x3](sbs-840x472-64-3x3.png)](sbs-840x472-64-3x3.gif)
 
 # Requirements
 
@@ -26,6 +92,16 @@ This project contains the media files for project bezeye [https://github.com/xyz
     make all-sbs
 
 Then add referenced media to project
+
+## Source code
+
+Checkout the latest code:
+
+```sh
+  git clone https://github.com/xyzzy/bezeye-media.git
+```
+
+There are no releases due to their size.
 
 # Versioning
 
