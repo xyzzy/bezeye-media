@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 Media repositories have no releases due to their size.
 
 ```
+2021-03-23 17:22:12 Changed: Order items in navbar.
 2021-03-21 17:11:13 Added: Remastered palette.
 2021-03-21 15:43:56 Added: `moonwalk` theme.
 2021-01-22 14:28:48 Changed: Italic sub-title.
@@ -16,5 +17,3 @@ Media repositories have no releases due to their size.
 2021-01-21 00:20:56 Added: `bezeye-840x472-7-5x5.gif`.
 2021-01-20 23:32:32 Initial commit.
 ```
-
-[Unreleased]: https://github.com/xyzzy/bezeye-media/compare/v1.0.0...HEAD

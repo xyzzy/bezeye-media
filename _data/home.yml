@@ -2,24 +2,18 @@ navbar_entries:
   - title: "showcase"
     url: https://xyzzy.github.io
 
-  - title: "xyzzy@github"
-    url: https://github.com/xyzzy
+  - title: "bezeye"
+    url: https://xyzzy.github.io/bezeye/README.html
 
   - title: "bezeye-media@github"
     url: https://github.com/xyzzy/bezeye-media
-
-  - title: "README@bezeye"
-    url: https://xyzzy.github.io/bezeye/README
 
 footer_entries:
   - title: "showcase"
     url: https://xyzzy.github.io
 
-  - title: "xyzzy@github"
-    url: https://github.com/xyzzy
+  - title: "bezeye"
+    url: https://xyzzy.github.io/bezeye/README.html
 
   - title: "bezeye-media@github"
     url: https://github.com/xyzzy/bezeye-media
-
-  - title: "README@bezeye"
-    url: https://xyzzy.github.io/bezeye/README

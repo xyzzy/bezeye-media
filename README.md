@@ -8,11 +8,15 @@ image: assets/favimage-840x472.jpg
 
 Media files for `bezeye` (https://github.com/xyzzy/bezeye)
 
-# Welcome to the Wonderful World of Bezeye
+!!  
+!! This repository contains about 415M of media files.  
+!!
+
+### Welcome to the Wonderful World of Bezeye
 
 *When illustrations are 375x larger than the code...*
 
-This project contains the media files for project bezeye [https://github.com/xyzzy/bezeye](https://github.com/xyzzy/bezeye)
+This project contains the media files for: [https://github.com/xyzzy/bezeye](https://github.com/xyzzy/bezeye)
 
 # Remastered palette
 
@@ -110,6 +114,8 @@ Note: GIFs are around 25Mbyte each.
 Then add referenced media to project
 
 ## Source code
+
+This repository contains about 415M of media files.
 
 Checkout the latest code:
 
